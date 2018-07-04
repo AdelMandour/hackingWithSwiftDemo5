@@ -13,6 +13,7 @@
 		84CEB64920ECF76B001B51A2 /* readingfromdisk.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 84CEB64720ECF76B001B51A2 /* readingfromdisk.xcdatamodeld */; };
 		84CEB64B20ECF771001B51A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84CEB64A20ECF771001B51A2 /* Assets.xcassets */; };
 		84CEB64E20ECF771001B51A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84CEB64C20ECF771001B51A2 /* LaunchScreen.storyboard */; };
+		84CEB65620ECF896001B51A2 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 84CEB65520ECF896001B51A2 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84CEB64A20ECF771001B51A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84CEB64D20ECF771001B51A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84CEB64F20ECF771001B51A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84CEB65520ECF896001B51A2 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				84CEB64020ECF76B001B51A2 /* AppDelegate.swift */,
 				84CEB64220ECF76B001B51A2 /* ViewController.swift */,
+				84CEB65520ECF896001B51A2 /* start.txt */,
 				84CEB64420ECF76B001B51A2 /* Main.storyboard */,
 				84CEB64A20ECF771001B51A2 /* Assets.xcassets */,
 				84CEB64C20ECF771001B51A2 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84CEB64E20ECF771001B51A2 /* LaunchScreen.storyboard in Resources */,
+				84CEB65620ECF896001B51A2 /* start.txt in Resources */,
 				84CEB64B20ECF771001B51A2 /* Assets.xcassets in Resources */,
 				84CEB64620ECF76B001B51A2 /* Main.storyboard in Resources */,
 			);
